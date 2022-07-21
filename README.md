@@ -21,6 +21,18 @@
   <img src="https://komarev.com/ghpvc/?username=sogalipeau&style=for-the-badge&color=orange" alt="views counter">
 </div>
 
+***
+> I've completed several projects and challenges on FreeCodeCamp and Codecademy. Do check out the code in their respective repositories or go straight to their live view. I welcome your feedback, comment and tips.
+>:nerd_face:Thank you!
+
+- [x] [Book Club](https://sogalipeau.github.io/diogenes-book-club/)
+- [x] [Techinical Documentation Page](https://sogalipeau.github.io/python-technical-documentation/)
+- [x] [Design Guide](https://sogalipeau.github.io/design-system/)
+- [x] [Landing Page](https://sogalipeau.github.io/company-home-page/)
+<div>
+</div>
+
+
 
   
   
