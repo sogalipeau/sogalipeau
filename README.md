@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Tayo+Aishah)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="300">
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
   <img src="https://media.giphy.com/media/fYBEN9TRdEnW0HDMJS/giphy.gif" width="150">
   <div id=social>
     <a href="https://linkedin.com/in/omotayo-aishah-sanusi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/YouTube-maroon?style=for-the-badge&logo=youtube" alt="YouTube Badge"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+    <!--<a href="#"><img src="https://img.shields.io/badge/YouTube-maroon?style=for-the-badge&logo=youtube" alt="YouTube Badge"></a> -->
+    <!--<a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>-->
   </div>
   <img src="https://komarev.com/ghpvc/?username=sogalipeau&style=for-the-badge&color=orange" alt="views counter">
 </div>
 
 ***
-> I've completed several projects and challenges on FreeCodeCamp and Codecademy. Do check out the code in their respective repositories or go straight to their live view. I welcome your feedback, comment and tips.
+> :telescope: At the moment, I am working on creating a personal portfolio page. I've completed several projects and challenges on FreeCodeCamp and Codecademy. Do check out the code in their respective repositories or go straight to their live view. I welcome your feedback, comment and tips.
 >:nerd_face:Thank you!
 
 - [x] [Book Club](https://sogalipeau.github.io/diogenes-book-club/)
@@ -31,6 +31,7 @@
 - [x] [Landing Page](https://sogalipeau.github.io/company-home-page/)
 <div>
 </div>
+
 
 
 
