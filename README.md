@@ -22,7 +22,7 @@
 </div>
 
 ***
-> :telescope: At the moment, I am working on creating a personal portfolio page. I've completed several projects and challenges on FreeCodeCamp and Codecademy. Do check out the code in their respective repositories or go straight to their live view. I welcome your feedback, comment and tips.
+> :telescope: At the moment, I am working on creating a personal portfolio page. I've completed several projects and challenges on FreeCodeCamp and Codecademy. Do check out the code in their respective repositories or click on the links below to go straight to their live view. I welcome your feedback, comment and tips.
 >:nerd_face:Thank you!
 
 - [x] [Book Club](https://sogalipeau.github.io/diogenes-book-club/)
